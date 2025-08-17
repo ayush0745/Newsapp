@@ -1,11 +1,6 @@
-import React from "react";
-
+import Newsapp from "./components/Newsapp";
 function App() {
-  return (
-    <div>
-      <h1>News App</h1>
-    </div>
-  );
+  return <Newsapp />;
 }
 
 export default App;
